@@ -1,0 +1,42 @@
+
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+
+
+# Django
+*.log
+*.pot
+*.py[cod]
+db.sqlite3
+/media
+/staticfiles
+/credentdails
+*.env

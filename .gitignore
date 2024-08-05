@@ -38,5 +38,5 @@ __pycache__/
 db.sqlite3
 /media
 /staticfiles
-/music_controller/spofity/credentdails
+/credentdails
 *.env
